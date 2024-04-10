@@ -29,5 +29,5 @@ Display the sample metadata, i.e., an individual's demographic information.
 
 The URL provided below will display the result.
 
-file:///C:/Users/bakts/Documents/belly-button-challenge/StarterCode/index.html 
+file:///C:/Users/bakts/Documents/belly-button-challenge/StarterCode/index.html
 
